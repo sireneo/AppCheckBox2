@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MiAppChekeo</string>
+    <string name="txt_num1">Dame un valor</string>
+    <string name="txt_num2">Dame otro valor</string>\
+    <string name="chk_suma">Sumar</string>
+    <string name="chk_producto">Multiplicar</string>
+    <string name="bun_calcular">Realizar</string>
+    <string name="tv_res">REsultado</string>
+</resources>
